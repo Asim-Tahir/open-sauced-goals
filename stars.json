@@ -1,51 +1,75 @@
 [
   {
+    "full_name": "CivilServiceUSA/us-states",
+    "stargazers_count": 48,
+    "open_issues_count": 1,
+    "forks_count": 36
+  },
+  {
+    "full_name": "uber/cadence",
+    "stargazers_count": 6320,
+    "open_issues_count": 362,
+    "forks_count": 635
+  },
+  {
+    "full_name": "babel/babel",
+    "stargazers_count": 41452,
+    "open_issues_count": 783,
+    "forks_count": 5464
+  },
+  {
+    "full_name": "webmodules/mutation-observer",
+    "stargazers_count": 62,
+    "open_issues_count": 9,
+    "forks_count": 17
+  },
+  {
     "full_name": "tonybaloney/vscode-pets",
-    "stargazers_count": 835,
-    "open_issues_count": 38,
-    "forks_count": 96
+    "stargazers_count": 990,
+    "open_issues_count": 44,
+    "forks_count": 123
   },
   {
     "full_name": "alyssaxuu/producthunt-preview",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 9049,
-    "open_issues_count": 135,
-    "forks_count": 344
+    "stargazers_count": 9071,
+    "open_issues_count": 136,
+    "forks_count": 347
   },
   {
     "full_name": "cloudflare/quiche",
-    "stargazers_count": 6683,
-    "open_issues_count": 136,
-    "forks_count": 471
+    "stargazers_count": 6705,
+    "open_issues_count": 138,
+    "forks_count": 472
   },
   {
     "full_name": "mh-cbon/go-msi",
-    "stargazers_count": 381,
+    "stargazers_count": 382,
     "open_issues_count": 26,
     "forks_count": 50
   },
   {
     "full_name": "danielroe/fontaine",
-    "stargazers_count": 32,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 53,
+    "open_issues_count": 5,
+    "forks_count": 3
   },
   {
     "full_name": "muxinc/media-chrome",
-    "stargazers_count": 485,
+    "stargazers_count": 493,
     "open_issues_count": 15,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "Choices-js/Choices",
-    "stargazers_count": 5159,
+    "stargazers_count": 5166,
     "open_issues_count": 165,
-    "forks_count": 542
+    "forks_count": 543
   },
   {
     "full_name": "berkayvuran/berkayvuran.github.io",
@@ -55,39 +79,39 @@
   },
   {
     "full_name": "huggingface/datasets-server",
-    "stargazers_count": 91,
-    "open_issues_count": 14,
+    "stargazers_count": 108,
+    "open_issues_count": 15,
     "forks_count": 1
   },
   {
     "full_name": "LLK/scratch-gui",
-    "stargazers_count": 3595,
-    "open_issues_count": 1013,
-    "forks_count": 2696
+    "stargazers_count": 3597,
+    "open_issues_count": 1015,
+    "forks_count": 2698
   },
   {
     "full_name": "LLK/scratch-blocks",
-    "stargazers_count": 2252,
-    "open_issues_count": 379,
+    "stargazers_count": 2255,
+    "open_issues_count": 378,
     "forks_count": 1146
   },
   {
     "full_name": "arduino/arduino-cli",
-    "stargazers_count": 3559,
-    "open_issues_count": 281,
-    "forks_count": 326
+    "stargazers_count": 3568,
+    "open_issues_count": 285,
+    "forks_count": 327
   },
   {
     "full_name": "arduino/arduino-language-server",
-    "stargazers_count": 61,
+    "stargazers_count": 60,
     "open_issues_count": 19,
     "forks_count": 8
   },
   {
     "full_name": "arduino/arduino-ide",
-    "stargazers_count": 1013,
-    "open_issues_count": 392,
-    "forks_count": 164
+    "stargazers_count": 1023,
+    "open_issues_count": 394,
+    "forks_count": 165
   },
   {
     "full_name": "j-hc/windows-taskscheduler-api-rust",
@@ -97,86 +121,62 @@
   },
   {
     "full_name": "natemoo-re/ultrahtml",
-    "stargazers_count": 195,
+    "stargazers_count": 197,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "mongo-express/mongo-express",
-    "stargazers_count": 4737,
-    "open_issues_count": 136,
-    "forks_count": 867
+    "stargazers_count": 4743,
+    "open_issues_count": 134,
+    "forks_count": 870
   },
   {
     "full_name": "element-plus/element-plus",
-    "stargazers_count": 17247,
-    "open_issues_count": 943,
-    "forks_count": 6309
+    "stargazers_count": 17274,
+    "open_issues_count": 931,
+    "forks_count": 6331
   },
   {
     "full_name": "AnonymousR1025/FallenMusic",
     "stargazers_count": 109,
     "open_issues_count": 0,
-    "forks_count": 727
+    "forks_count": 739
   },
   {
     "full_name": "daveshanley/vacuum",
     "stargazers_count": 32,
-    "open_issues_count": 5,
-    "forks_count": 2
+    "open_issues_count": 7,
+    "forks_count": 3
   },
   {
     "full_name": "traefik/mesh",
-    "stargazers_count": 1743,
-    "open_issues_count": 35,
-    "forks_count": 122
+    "stargazers_count": 1745,
+    "open_issues_count": 36,
+    "forks_count": 123
   },
   {
     "full_name": "yarnpkg/berry",
-    "stargazers_count": 5570,
-    "open_issues_count": 483,
-    "forks_count": 865
+    "stargazers_count": 5584,
+    "open_issues_count": 473,
+    "forks_count": 866
   },
   {
     "full_name": "mohammad-fouladgar/laravel-otp",
     "stargazers_count": 79,
-    "open_issues_count": 0,
-    "forks_count": 8
+    "open_issues_count": 1,
+    "forks_count": 9
   },
   {
     "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 35646,
-    "open_issues_count": 493,
-    "forks_count": 5443
+    "stargazers_count": 35702,
+    "open_issues_count": 480,
+    "forks_count": 5465
   },
   {
     "full_name": "FoxxMD/context-mod",
-    "stargazers_count": 30,
-    "open_issues_count": 27,
+    "stargazers_count": 31,
+    "open_issues_count": 28,
     "forks_count": 5
-  },
-  {
-    "full_name": "reduxjs/redux",
-    "stargazers_count": 58705,
-    "open_issues_count": 56,
-    "forks_count": 15309
-  },
-  {
-    "full_name": "unjs/hookable",
-    "stargazers_count": 228,
-    "open_issues_count": 7,
-    "forks_count": 14
-  },
-  {
-    "full_name": "Foxboron/go-uefi",
-    "stargazers_count": 78,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "ruffle-rs/ruffle",
-    "stargazers_count": 10708,
-    "open_issues_count": 1902,
-    "forks_count": 508
   }
 ]
