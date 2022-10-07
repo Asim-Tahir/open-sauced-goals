@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "shufo/prettier-plugin-blade",
+    "stargazers_count": 149,
+    "open_issues_count": 9,
+    "forks_count": 3
+  },
+  {
+    "full_name": "amir9480/vscode-laravel-extra-intellisense",
+    "stargazers_count": 2112,
+    "open_issues_count": 21,
+    "forks_count": 32
+  },
+  {
+    "full_name": "reduxjs/react-redux",
+    "stargazers_count": 22401,
+    "open_issues_count": 19,
+    "forks_count": 3290
+  },
+  {
+    "full_name": "postcss/postcss",
+    "stargazers_count": 26747,
+    "open_issues_count": 15,
+    "forks_count": 1539
+  },
+  {
+    "full_name": "creativetimofficial/argon-dashboard",
+    "stargazers_count": 546,
+    "open_issues_count": 30,
+    "forks_count": 387
+  },
+  {
     "full_name": "CivilServiceUSA/us-states",
     "stargazers_count": 48,
     "open_issues_count": 1,
@@ -7,15 +37,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6320,
+    "stargazers_count": 6321,
     "open_issues_count": 362,
-    "forks_count": 635
+    "forks_count": 636
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 41452,
-    "open_issues_count": 783,
-    "forks_count": 5464
+    "stargazers_count": 41464,
+    "open_issues_count": 778,
+    "forks_count": 5469
   },
   {
     "full_name": "webmodules/mutation-observer",
@@ -25,31 +55,31 @@
   },
   {
     "full_name": "tonybaloney/vscode-pets",
-    "stargazers_count": 990,
-    "open_issues_count": 44,
-    "forks_count": 123
+    "stargazers_count": 1019,
+    "open_issues_count": 47,
+    "forks_count": 128
   },
   {
     "full_name": "alyssaxuu/producthunt-preview",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 9071,
-    "open_issues_count": 136,
+    "stargazers_count": 9106,
+    "open_issues_count": 139,
     "forks_count": 347
   },
   {
     "full_name": "cloudflare/quiche",
-    "stargazers_count": 6705,
-    "open_issues_count": 138,
-    "forks_count": 472
+    "stargazers_count": 6714,
+    "open_issues_count": 139,
+    "forks_count": 473
   },
   {
     "full_name": "mh-cbon/go-msi",
-    "stargazers_count": 382,
+    "stargazers_count": 384,
     "open_issues_count": 26,
     "forks_count": 50
   },
@@ -61,13 +91,13 @@
   },
   {
     "full_name": "muxinc/media-chrome",
-    "stargazers_count": 493,
+    "stargazers_count": 494,
     "open_issues_count": 15,
     "forks_count": 21
   },
   {
     "full_name": "Choices-js/Choices",
-    "stargazers_count": 5166,
+    "stargazers_count": 5171,
     "open_issues_count": 165,
     "forks_count": 543
   },
@@ -79,27 +109,27 @@
   },
   {
     "full_name": "huggingface/datasets-server",
-    "stargazers_count": 108,
+    "stargazers_count": 348,
     "open_issues_count": 15,
-    "forks_count": 1
+    "forks_count": 4
   },
   {
     "full_name": "LLK/scratch-gui",
-    "stargazers_count": 3597,
-    "open_issues_count": 1015,
-    "forks_count": 2698
+    "stargazers_count": 3598,
+    "open_issues_count": 1011,
+    "forks_count": 2704
   },
   {
     "full_name": "LLK/scratch-blocks",
-    "stargazers_count": 2255,
-    "open_issues_count": 378,
-    "forks_count": 1146
+    "stargazers_count": 2256,
+    "open_issues_count": 379,
+    "forks_count": 1148
   },
   {
     "full_name": "arduino/arduino-cli",
-    "stargazers_count": 3568,
-    "open_issues_count": 285,
-    "forks_count": 327
+    "stargazers_count": 3571,
+    "open_issues_count": 282,
+    "forks_count": 328
   },
   {
     "full_name": "arduino/arduino-language-server",
@@ -109,9 +139,9 @@
   },
   {
     "full_name": "arduino/arduino-ide",
-    "stargazers_count": 1023,
-    "open_issues_count": 394,
-    "forks_count": 165
+    "stargazers_count": 1035,
+    "open_issues_count": 401,
+    "forks_count": 166
   },
   {
     "full_name": "j-hc/windows-taskscheduler-api-rust",
@@ -121,62 +151,32 @@
   },
   {
     "full_name": "natemoo-re/ultrahtml",
-    "stargazers_count": 197,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 198,
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "mongo-express/mongo-express",
-    "stargazers_count": 4743,
+    "stargazers_count": 4745,
     "open_issues_count": 134,
     "forks_count": 870
   },
   {
     "full_name": "element-plus/element-plus",
-    "stargazers_count": 17274,
-    "open_issues_count": 931,
-    "forks_count": 6331
+    "stargazers_count": 17294,
+    "open_issues_count": 929,
+    "forks_count": 6352
   },
   {
     "full_name": "AnonymousR1025/FallenMusic",
     "stargazers_count": 109,
     "open_issues_count": 0,
-    "forks_count": 739
+    "forks_count": 759
   },
   {
     "full_name": "daveshanley/vacuum",
-    "stargazers_count": 32,
-    "open_issues_count": 7,
+    "stargazers_count": 34,
+    "open_issues_count": 6,
     "forks_count": 3
-  },
-  {
-    "full_name": "traefik/mesh",
-    "stargazers_count": 1745,
-    "open_issues_count": 36,
-    "forks_count": 123
-  },
-  {
-    "full_name": "yarnpkg/berry",
-    "stargazers_count": 5584,
-    "open_issues_count": 473,
-    "forks_count": 866
-  },
-  {
-    "full_name": "mohammad-fouladgar/laravel-otp",
-    "stargazers_count": 79,
-    "open_issues_count": 1,
-    "forks_count": 9
-  },
-  {
-    "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 35702,
-    "open_issues_count": 480,
-    "forks_count": 5465
-  },
-  {
-    "full_name": "FoxxMD/context-mod",
-    "stargazers_count": 31,
-    "open_issues_count": 28,
-    "forks_count": 5
   }
 ]
