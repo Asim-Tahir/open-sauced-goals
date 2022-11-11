@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "sindresorhus/np",
+    "stargazers_count": 6828,
+    "open_issues_count": 102,
+    "forks_count": 324
+  },
+  {
     "full_name": "thgh/rollup-plugin-scss",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 24,
     "forks_count": 47
   },
@@ -13,26 +19,26 @@
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 41721,
-    "open_issues_count": 88,
-    "forks_count": 17836
+    "stargazers_count": 41743,
+    "open_issues_count": 91,
+    "forks_count": 17847
   },
   {
     "full_name": "jonas/tig",
-    "stargazers_count": 11282,
+    "stargazers_count": 11289,
     "open_issues_count": 192,
     "forks_count": 589
   },
   {
     "full_name": "zentralopensource/zentral",
-    "stargazers_count": 650,
+    "stargazers_count": 649,
     "open_issues_count": 21,
     "forks_count": 85
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 19452,
-    "open_issues_count": 555,
+    "stargazers_count": 19461,
+    "open_issues_count": 556,
     "forks_count": 2356
   },
   {
@@ -43,25 +49,25 @@
   },
   {
     "full_name": "imba/imba",
-    "stargazers_count": 5833,
-    "open_issues_count": 87,
-    "forks_count": 181
+    "stargazers_count": 5834,
+    "open_issues_count": 88,
+    "forks_count": 182
   },
   {
     "full_name": "mathiasbynens/mothereff.in",
-    "stargazers_count": 984,
+    "stargazers_count": 985,
     "open_issues_count": 26,
     "forks_count": 312
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44140,
-    "open_issues_count": 96,
-    "forks_count": 3437
+    "stargazers_count": 44190,
+    "open_issues_count": 99,
+    "forks_count": 3440
   },
   {
     "full_name": "tinyproxy/tinyproxy",
-    "stargazers_count": 3528,
+    "stargazers_count": 3536,
     "open_issues_count": 91,
     "forks_count": 557
   },
@@ -73,37 +79,37 @@
   },
   {
     "full_name": "GoogleChrome/workbox",
-    "stargazers_count": 11131,
-    "open_issues_count": 138,
+    "stargazers_count": 11142,
+    "open_issues_count": 142,
     "forks_count": 804
   },
   {
     "full_name": "coredns/coredns",
-    "stargazers_count": 9940,
-    "open_issues_count": 48,
-    "forks_count": 1779
+    "stargazers_count": 9954,
+    "open_issues_count": 45,
+    "forks_count": 1778
   },
   {
     "full_name": "Splidejs/splide",
-    "stargazers_count": 3305,
-    "open_issues_count": 6,
-    "forks_count": 359
+    "stargazers_count": 3317,
+    "open_issues_count": 4,
+    "forks_count": 358
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 69858,
-    "open_issues_count": 56,
-    "forks_count": 6533
+    "stargazers_count": 69929,
+    "open_issues_count": 57,
+    "forks_count": 6539
   },
   {
     "full_name": "postcss/postcss-scss",
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 2,
     "forks_count": 35
   },
   {
     "full_name": "dteare/opbookmarks",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "miragejs/miragejs",
-    "stargazers_count": 4838,
+    "stargazers_count": 4842,
     "open_issues_count": 181,
     "forks_count": 163
   },
   {
     "full_name": "bluwy/whyframe",
-    "stargazers_count": 387,
+    "stargazers_count": 391,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "fwouts/previewjs",
-    "stargazers_count": 1326,
-    "open_issues_count": 41,
-    "forks_count": 27
+    "stargazers_count": 1327,
+    "open_issues_count": 42,
+    "forks_count": 28
   },
   {
     "full_name": "bluwy/bun-vite-ts-test",
@@ -139,20 +145,20 @@
   },
   {
     "full_name": "Jutanium/tutour",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 426,
-    "open_issues_count": 24,
+    "stargazers_count": 430,
+    "open_issues_count": 26,
     "forks_count": 30
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 4
-  },
-  {
-    "full_name": "NotionX/react-notion-x",
-    "stargazers_count": 2974,
-    "open_issues_count": 103,
-    "forks_count": 335
   }
 ]
