@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "storyblok/storyblok-nuxt",
+    "stargazers_count": 188,
+    "open_issues_count": 61,
+    "forks_count": 32
+  },
+  {
+    "full_name": "Foundry376/Mailspring",
+    "stargazers_count": 13446,
+    "open_issues_count": 14,
+    "forks_count": 843
+  },
+  {
+    "full_name": "videojs/video.js",
+    "stargazers_count": 34545,
+    "open_issues_count": 370,
+    "forks_count": 7261
+  },
+  {
+    "full_name": "iterate-ch/cyberduck",
+    "stargazers_count": 2077,
+    "open_issues_count": 342,
+    "forks_count": 220
+  },
+  {
     "full_name": "eminfidann/vanillajs-todo-app",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,32 +31,32 @@
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 4928,
+    "stargazers_count": 4932,
     "open_issues_count": 21,
-    "forks_count": 322
+    "forks_count": 321
   },
   {
     "full_name": "barbajs/barba",
-    "stargazers_count": 10043,
+    "stargazers_count": 10045,
     "open_issues_count": 26,
     "forks_count": 490
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 20899,
-    "open_issues_count": 122,
-    "forks_count": 625
+    "stargazers_count": 21107,
+    "open_issues_count": 115,
+    "forks_count": 632
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 6831,
-    "open_issues_count": 103,
-    "forks_count": 324
+    "stargazers_count": 6842,
+    "open_issues_count": 104,
+    "forks_count": 326
   },
   {
     "full_name": "thgh/rollup-plugin-scss",
     "stargazers_count": 115,
-    "open_issues_count": 24,
+    "open_issues_count": 22,
     "forks_count": 47
   },
   {
@@ -43,13 +67,13 @@
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 41749,
-    "open_issues_count": 93,
-    "forks_count": 17848
+    "stargazers_count": 41757,
+    "open_issues_count": 94,
+    "forks_count": 17866
   },
   {
     "full_name": "jonas/tig",
-    "stargazers_count": 11298,
+    "stargazers_count": 11307,
     "open_issues_count": 193,
     "forks_count": 590
   },
@@ -61,19 +85,19 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 19467,
-    "open_issues_count": 557,
+    "stargazers_count": 19481,
+    "open_issues_count": 560,
     "forks_count": 2357
   },
   {
     "full_name": "KonnorRogers/shadow-dom-testing-library",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
+    "stargazers_count": 26,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "imba/imba",
-    "stargazers_count": 5835,
+    "stargazers_count": 5840,
     "open_issues_count": 89,
     "forks_count": 182
   },
@@ -81,17 +105,17 @@
     "full_name": "mathiasbynens/mothereff.in",
     "stargazers_count": 985,
     "open_issues_count": 26,
-    "forks_count": 312
+    "forks_count": 311
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44261,
+    "stargazers_count": 44331,
     "open_issues_count": 101,
-    "forks_count": 3442
+    "forks_count": 3450
   },
   {
     "full_name": "tinyproxy/tinyproxy",
-    "stargazers_count": 3544,
+    "stargazers_count": 3555,
     "open_issues_count": 91,
     "forks_count": 558
   },
@@ -103,31 +127,31 @@
   },
   {
     "full_name": "GoogleChrome/workbox",
-    "stargazers_count": 11149,
+    "stargazers_count": 11158,
     "open_issues_count": 142,
     "forks_count": 806
   },
   {
     "full_name": "coredns/coredns",
-    "stargazers_count": 9966,
+    "stargazers_count": 9977,
     "open_issues_count": 48,
-    "forks_count": 1781
+    "forks_count": 1789
   },
   {
     "full_name": "Splidejs/splide",
-    "stargazers_count": 3331,
-    "open_issues_count": 4,
+    "stargazers_count": 3340,
+    "open_issues_count": 5,
     "forks_count": 357
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 70079,
+    "stargazers_count": 70164,
     "open_issues_count": 58,
-    "forks_count": 6562
+    "forks_count": 6577
   },
   {
     "full_name": "postcss/postcss-scss",
-    "stargazers_count": 604,
+    "stargazers_count": 605,
     "open_issues_count": 2,
     "forks_count": 35
   },
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "miragejs/miragejs",
-    "stargazers_count": 4846,
-    "open_issues_count": 182,
+    "stargazers_count": 4854,
+    "open_issues_count": 183,
     "forks_count": 164
   },
   {
     "full_name": "bluwy/whyframe",
-    "stargazers_count": 393,
+    "stargazers_count": 394,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "fwouts/previewjs",
-    "stargazers_count": 1328,
-    "open_issues_count": 41,
-    "forks_count": 28
-  },
-  {
-    "full_name": "bluwy/bun-vite-ts-test",
-    "stargazers_count": 56,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Jutanium/tutour",
-    "stargazers_count": 65,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "rakkasjs/rakkasjs",
-    "stargazers_count": 745,
-    "open_issues_count": 11,
-    "forks_count": 16
   }
 ]
