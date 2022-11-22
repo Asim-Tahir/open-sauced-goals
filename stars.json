@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "CodingTrain/Oregon-Trail",
+    "stargazers_count": 16,
+    "open_issues_count": 7,
+    "forks_count": 4
+  },
+  {
+    "full_name": "n8cotoa/oregon-trail",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "warnock/oregon-trail-game",
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
     "full_name": "storyblok/storyblok-nuxt",
-    "stargazers_count": 188,
+    "stargazers_count": 190,
     "open_issues_count": 61,
     "forks_count": 32
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 13446,
-    "open_issues_count": 14,
-    "forks_count": 843
+    "stargazers_count": 13459,
+    "open_issues_count": 13,
+    "forks_count": 846
   },
   {
     "full_name": "videojs/video.js",
-    "stargazers_count": 34545,
-    "open_issues_count": 370,
+    "stargazers_count": 34564,
+    "open_issues_count": 369,
     "forks_count": 7261
   },
   {
     "full_name": "iterate-ch/cyberduck",
-    "stargazers_count": 2077,
-    "open_issues_count": 342,
+    "stargazers_count": 2079,
+    "open_issues_count": 343,
     "forks_count": 220
   },
   {
-    "full_name": "eminfidann/vanillajs-todo-app",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 4932,
+    "stargazers_count": 4938,
     "open_issues_count": 21,
-    "forks_count": 321
+    "forks_count": 323
   },
   {
     "full_name": "barbajs/barba",
@@ -43,13 +55,13 @@
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 21107,
-    "open_issues_count": 115,
-    "forks_count": 632
+    "stargazers_count": 21263,
+    "open_issues_count": 121,
+    "forks_count": 635
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 6842,
+    "stargazers_count": 6846,
     "open_issues_count": 104,
     "forks_count": 326
   },
@@ -61,33 +73,33 @@
   },
   {
     "full_name": "thgh/rollup-plugin-css-only",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 12,
     "forks_count": 26
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 41757,
-    "open_issues_count": 94,
-    "forks_count": 17866
+    "stargazers_count": 41779,
+    "open_issues_count": 96,
+    "forks_count": 17874
   },
   {
     "full_name": "jonas/tig",
-    "stargazers_count": 11307,
-    "open_issues_count": 193,
-    "forks_count": 590
+    "stargazers_count": 11320,
+    "open_issues_count": 189,
+    "forks_count": 591
   },
   {
     "full_name": "zentralopensource/zentral",
-    "stargazers_count": 649,
+    "stargazers_count": 650,
     "open_issues_count": 21,
     "forks_count": 85
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 19481,
-    "open_issues_count": 560,
-    "forks_count": 2357
+    "stargazers_count": 19496,
+    "open_issues_count": 561,
+    "forks_count": 2359
   },
   {
     "full_name": "KonnorRogers/shadow-dom-testing-library",
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "imba/imba",
-    "stargazers_count": 5840,
+    "stargazers_count": 5850,
     "open_issues_count": 89,
     "forks_count": 182
   },
@@ -109,74 +121,62 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44331,
-    "open_issues_count": 101,
-    "forks_count": 3450
+    "stargazers_count": 44391,
+    "open_issues_count": 105,
+    "forks_count": 3452
   },
   {
     "full_name": "tinyproxy/tinyproxy",
-    "stargazers_count": 3555,
-    "open_issues_count": 91,
+    "stargazers_count": 3561,
+    "open_issues_count": 92,
     "forks_count": 558
   },
   {
     "full_name": "ogun/guncel-turkce-sozluk",
-    "stargazers_count": 95,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "GoogleChrome/workbox",
-    "stargazers_count": 11158,
+    "stargazers_count": 11166,
     "open_issues_count": 142,
-    "forks_count": 806
+    "forks_count": 807
   },
   {
     "full_name": "coredns/coredns",
-    "stargazers_count": 9977,
-    "open_issues_count": 48,
-    "forks_count": 1789
+    "stargazers_count": 9990,
+    "open_issues_count": 49,
+    "forks_count": 1791
   },
   {
     "full_name": "Splidejs/splide",
-    "stargazers_count": 3340,
+    "stargazers_count": 3348,
     "open_issues_count": 5,
     "forks_count": 357
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 70164,
-    "open_issues_count": 58,
-    "forks_count": 6577
+    "stargazers_count": 70331,
+    "open_issues_count": 59,
+    "forks_count": 6592
   },
   {
     "full_name": "postcss/postcss-scss",
-    "stargazers_count": 605,
+    "stargazers_count": 606,
     "open_issues_count": 2,
     "forks_count": 35
   },
   {
     "full_name": "dteare/opbookmarks",
-    "stargazers_count": 64,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 68,
+    "open_issues_count": 2,
+    "forks_count": 4
   },
   {
     "full_name": "advantch/django-react-vite",
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "miragejs/miragejs",
-    "stargazers_count": 4854,
-    "open_issues_count": 183,
-    "forks_count": 164
-  },
-  {
-    "full_name": "bluwy/whyframe",
-    "stargazers_count": 394,
-    "open_issues_count": 0,
-    "forks_count": 6
   }
 ]
