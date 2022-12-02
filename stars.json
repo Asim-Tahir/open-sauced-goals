@@ -1,9 +1,9 @@
 [
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 33380,
-    "open_issues_count": 229,
-    "forks_count": 1840
+    "stargazers_count": 33404,
+    "open_issues_count": 230,
+    "forks_count": 1841
   },
   {
     "full_name": "tugba-koc/todo-app-with-pure-js",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "grafana/mimir",
-    "stargazers_count": 2635,
-    "open_issues_count": 359,
+    "stargazers_count": 2648,
+    "open_issues_count": 358,
     "forks_count": 215
   },
   {
     "full_name": "prometheus/alertmanager",
-    "stargazers_count": 5334,
-    "open_issues_count": 411,
-    "forks_count": 1892
+    "stargazers_count": 5343,
+    "open_issues_count": 409,
+    "forks_count": 1896
   },
   {
     "full_name": "prometheus/node_exporter",
-    "stargazers_count": 8169,
-    "open_issues_count": 188,
-    "forks_count": 1960
+    "stargazers_count": 8198,
+    "open_issues_count": 189,
+    "forks_count": 1963
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 45648,
-    "open_issues_count": 796,
-    "forks_count": 7689
+    "stargazers_count": 45705,
+    "open_issues_count": 812,
+    "forks_count": 7703
   },
   {
     "full_name": "celery/celery",
-    "stargazers_count": 20499,
+    "stargazers_count": 20566,
     "open_issues_count": 587,
-    "forks_count": 4390
+    "forks_count": 4393
   },
   {
     "full_name": "CodingTrain/Oregon-Trail",
@@ -62,48 +62,48 @@
   {
     "full_name": "storyblok/storyblok-nuxt",
     "stargazers_count": 190,
-    "open_issues_count": 62,
+    "open_issues_count": 61,
     "forks_count": 32
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 13478,
+    "stargazers_count": 13490,
     "open_issues_count": 15,
     "forks_count": 845
   },
   {
     "full_name": "videojs/video.js",
-    "stargazers_count": 34613,
-    "open_issues_count": 370,
-    "forks_count": 7268
+    "stargazers_count": 34628,
+    "open_issues_count": 372,
+    "forks_count": 7272
   },
   {
     "full_name": "iterate-ch/cyberduck",
-    "stargazers_count": 2093,
-    "open_issues_count": 348,
+    "stargazers_count": 2101,
+    "open_issues_count": 352,
     "forks_count": 220
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 4959,
+    "stargazers_count": 4965,
     "open_issues_count": 21,
-    "forks_count": 323
+    "forks_count": 324
   },
   {
     "full_name": "barbajs/barba",
-    "stargazers_count": 10054,
+    "stargazers_count": 10061,
     "open_issues_count": 18,
     "forks_count": 487
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 21520,
-    "open_issues_count": 103,
-    "forks_count": 639
+    "stargazers_count": 21599,
+    "open_issues_count": 113,
+    "forks_count": 640
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 6862,
+    "stargazers_count": 6868,
     "open_issues_count": 105,
     "forks_count": 327
   },
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "ColorlibHQ/AdminLTE",
-    "stargazers_count": 41799,
+    "stargazers_count": 41812,
     "open_issues_count": 96,
-    "forks_count": 17882
+    "forks_count": 17885
   },
   {
     "full_name": "jonas/tig",
-    "stargazers_count": 11342,
-    "open_issues_count": 189,
+    "stargazers_count": 11344,
+    "open_issues_count": 190,
     "forks_count": 592
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "osquery/osquery",
-    "stargazers_count": 19600,
+    "stargazers_count": 19644,
     "open_issues_count": 562,
-    "forks_count": 2367
+    "forks_count": 2372
   },
   {
     "full_name": "KonnorRogers/shadow-dom-testing-library",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "imba/imba",
-    "stargazers_count": 5870,
+    "stargazers_count": 5880,
     "open_issues_count": 90,
     "forks_count": 182
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 44512,
-    "open_issues_count": 103,
-    "forks_count": 3458
+    "stargazers_count": 44568,
+    "open_issues_count": 104,
+    "forks_count": 3461
   },
   {
     "full_name": "tinyproxy/tinyproxy",
-    "stargazers_count": 3573,
-    "open_issues_count": 92,
+    "stargazers_count": 3581,
+    "open_issues_count": 93,
     "forks_count": 558
   },
   {
     "full_name": "ogun/guncel-turkce-sozluk",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 0,
     "forks_count": 10
   }
