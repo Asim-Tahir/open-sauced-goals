@@ -1,5 +1,77 @@
 [
   {
+    "full_name": "mastodon/mastodon",
+    "stargazers_count": 38190,
+    "open_issues_count": 3476,
+    "forks_count": 5718
+  },
+  {
+    "full_name": "gitkraken/vscode-gitlens",
+    "stargazers_count": 7595,
+    "open_issues_count": 475,
+    "forks_count": 811
+  },
+  {
+    "full_name": "theoremlp/required-reviews",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "infamous-riddles/branch-guardian",
+    "stargazers_count": 14,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "RomanHotsiy/commitgpt",
+    "stargazers_count": 713,
+    "open_issues_count": 11,
+    "forks_count": 15
+  },
+  {
+    "full_name": "transitive-bullshit/chatgpt-api",
+    "stargazers_count": 3739,
+    "open_issues_count": 6,
+    "forks_count": 367
+  },
+  {
+    "full_name": "VeNoMouS/cloudscraper",
+    "stargazers_count": 2602,
+    "open_issues_count": 4,
+    "forks_count": 373
+  },
+  {
+    "full_name": "gfx-rs/naga",
+    "stargazers_count": 1080,
+    "open_issues_count": 242,
+    "forks_count": 152
+  },
+  {
+    "full_name": "lucaspoffo/renet",
+    "stargazers_count": 218,
+    "open_issues_count": 16,
+    "forks_count": 15
+  },
+  {
+    "full_name": "facebook/zstd",
+    "stargazers_count": 18935,
+    "open_issues_count": 136,
+    "forks_count": 1804
+  },
+  {
+    "full_name": "nuxt-modules/partytown",
+    "stargazers_count": 209,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "lukeed/resolve.exports",
+    "stargazers_count": 206,
+    "open_issues_count": 13,
+    "forks_count": 10
+  },
+  {
     "full_name": "johannschopplich/unacl",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -13,27 +85,27 @@
   },
   {
     "full_name": "ElMassimo/vite-plugin-full-reload",
-    "stargazers_count": 75,
+    "stargazers_count": 77,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "romannurik/AndroidAssetStudio",
-    "stargazers_count": 6318,
+    "stargazers_count": 6317,
     "open_issues_count": 14,
-    "forks_count": 1396
+    "forks_count": 1398
   },
   {
     "full_name": "GreyZmeem/python-logging-loki",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 19,
     "forks_count": 35
   },
   {
     "full_name": "dbrgn/tealdeer",
-    "stargazers_count": 2867,
+    "stargazers_count": 2880,
     "open_issues_count": 17,
-    "forks_count": 88
+    "forks_count": 90
   },
   {
     "full_name": "MrOrz/vscode-gettext",
@@ -55,7 +127,7 @@
   },
   {
     "full_name": "digitalocean/pydo",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -67,9 +139,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 7534,
-    "open_issues_count": 42,
-    "forks_count": 387
+    "stargazers_count": 8573,
+    "open_issues_count": 55,
+    "forks_count": 488
   },
   {
     "full_name": "sbesh91/react-redux-omt",
@@ -85,9 +157,9 @@
   },
   {
     "full_name": "abielzulio/chatgpt-raycast",
-    "stargazers_count": 175,
-    "open_issues_count": 2,
-    "forks_count": 10
+    "stargazers_count": 183,
+    "open_issues_count": 4,
+    "forks_count": 11
   },
   {
     "full_name": "oh-my-fish/plugin-foreign-env",
@@ -97,8 +169,8 @@
   },
   {
     "full_name": "ain/smartbanner.js",
-    "stargazers_count": 495,
-    "open_issues_count": 11,
+    "stargazers_count": 496,
+    "open_issues_count": 9,
     "forks_count": 174
   },
   {
@@ -106,77 +178,5 @@
     "stargazers_count": 421,
     "open_issues_count": 7,
     "forks_count": 73
-  },
-  {
-    "full_name": "FabioAntunes/fish-nvm",
-    "stargazers_count": 451,
-    "open_issues_count": 3,
-    "forks_count": 17
-  },
-  {
-    "full_name": "derekstavis/plugin-nvm",
-    "stargazers_count": 207,
-    "open_issues_count": 7,
-    "forks_count": 15
-  },
-  {
-    "full_name": "PatrickF1/fzf.fish",
-    "stargazers_count": 1121,
-    "open_issues_count": 3,
-    "forks_count": 53
-  },
-  {
-    "full_name": "sharkdp/fd",
-    "stargazers_count": 25635,
-    "open_issues_count": 67,
-    "forks_count": 661
-  },
-  {
-    "full_name": "jorgebucaran/awsm.fish",
-    "stargazers_count": 3219,
-    "open_issues_count": 8,
-    "forks_count": 114
-  },
-  {
-    "full_name": "jorgebucaran/fisher",
-    "stargazers_count": 6279,
-    "open_issues_count": 10,
-    "forks_count": 256
-  },
-  {
-    "full_name": "jethrokuan/z",
-    "stargazers_count": 1009,
-    "open_issues_count": 10,
-    "forks_count": 37
-  },
-  {
-    "full_name": "edc/bass",
-    "stargazers_count": 1858,
-    "open_issues_count": 11,
-    "forks_count": 68
-  },
-  {
-    "full_name": "jorgebucaran/hyperapp",
-    "stargazers_count": 18882,
-    "open_issues_count": 7,
-    "forks_count": 835
-  },
-  {
-    "full_name": "jorgebucaran/nvm.fish",
-    "stargazers_count": 1505,
-    "open_issues_count": 6,
-    "forks_count": 62
-  },
-  {
-    "full_name": "oh-my-fish/oh-my-fish",
-    "stargazers_count": 9005,
-    "open_issues_count": 74,
-    "forks_count": 804
-  },
-  {
-    "full_name": "jamesshore/quixote",
-    "stargazers_count": 820,
-    "open_issues_count": 23,
-    "forks_count": 44
   }
 ]
