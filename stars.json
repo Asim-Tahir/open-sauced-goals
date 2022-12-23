@@ -1,15 +1,141 @@
 [
   {
+    "full_name": "bats-core/bats-core",
+    "stargazers_count": 3664,
+    "open_issues_count": 70,
+    "forks_count": 345
+  },
+  {
+    "full_name": "zardoy/typescript-vscode-plugins",
+    "stargazers_count": 13,
+    "open_issues_count": 43,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Gankra/cargo-mommy",
+    "stargazers_count": 114,
+    "open_issues_count": 4,
+    "forks_count": 5
+  },
+  {
+    "full_name": "tldr-pages/tldr",
+    "stargazers_count": 42279,
+    "open_issues_count": 260,
+    "forks_count": 3513
+  },
+  {
+    "full_name": "actions/runner-container-hooks",
+    "stargazers_count": 19,
+    "open_issues_count": 7,
+    "forks_count": 13
+  },
+  {
+    "full_name": "actions/actions-runner-controller",
+    "stargazers_count": 2560,
+    "open_issues_count": 89,
+    "forks_count": 633
+  },
+  {
+    "full_name": "pytorch/pytorch",
+    "stargazers_count": 61147,
+    "open_issues_count": 10655,
+    "forks_count": 17035
+  },
+  {
+    "full_name": "eshaz/wasm-audio-decoders",
+    "stargazers_count": 76,
+    "open_issues_count": 2,
+    "forks_count": 9
+  },
+  {
+    "full_name": "danielroe/vitest-environment-nuxt",
+    "stargazers_count": 29,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "openai/gpt-discord-bot",
+    "stargazers_count": 75,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "crxjs/chrome-extension-tools",
+    "stargazers_count": 806,
+    "open_issues_count": 58,
+    "forks_count": 74
+  },
+  {
+    "full_name": "web-ext-labs/create-web-ext",
+    "stargazers_count": 41,
+    "open_issues_count": 1,
+    "forks_count": 10
+  },
+  {
+    "full_name": "GoogleChrome/chrome-types",
+    "stargazers_count": 64,
+    "open_issues_count": 23,
+    "forks_count": 22
+  },
+  {
+    "full_name": "zikaari/crx-bridge",
+    "stargazers_count": 74,
+    "open_issues_count": 6,
+    "forks_count": 9
+  },
+  {
+    "full_name": "zikaari/webext-bridge",
+    "stargazers_count": 302,
+    "open_issues_count": 18,
+    "forks_count": 27
+  },
+  {
+    "full_name": "barrel/barrel-shopify",
+    "stargazers_count": 57,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
+    "full_name": "defstudio/vite-livewire-plugin",
+    "stargazers_count": 190,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "MrBin99/django-vite-example",
+    "stargazers_count": 35,
+    "open_issues_count": 4,
+    "forks_count": 14
+  },
+  {
+    "full_name": "remotion-dev/github-unwrapped-2022",
+    "stargazers_count": 638,
+    "open_issues_count": 0,
+    "forks_count": 35
+  },
+  {
+    "full_name": "mozilla/webextension-polyfill",
+    "stargazers_count": 2008,
+    "open_issues_count": 40,
+    "forks_count": 203
+  },
+  {
+    "full_name": "mozilla/web-ext",
+    "stargazers_count": 2186,
+    "open_issues_count": 182,
+    "forks_count": 315
+  },
+  {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 38190,
-    "open_issues_count": 3476,
-    "forks_count": 5718
+    "stargazers_count": 38543,
+    "open_issues_count": 3537,
+    "forks_count": 5757
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7595,
-    "open_issues_count": 475,
-    "forks_count": 811
+    "stargazers_count": 7603,
+    "open_issues_count": 478,
+    "forks_count": 814
   },
   {
     "full_name": "theoremlp/required-reviews",
@@ -25,158 +151,32 @@
   },
   {
     "full_name": "RomanHotsiy/commitgpt",
-    "stargazers_count": 713,
+    "stargazers_count": 750,
     "open_issues_count": 11,
-    "forks_count": 15
+    "forks_count": 17
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 3739,
-    "open_issues_count": 6,
-    "forks_count": 367
+    "stargazers_count": 3940,
+    "open_issues_count": 13,
+    "forks_count": 396
   },
   {
     "full_name": "VeNoMouS/cloudscraper",
-    "stargazers_count": 2602,
+    "stargazers_count": 2615,
     "open_issues_count": 4,
-    "forks_count": 373
+    "forks_count": 375
   },
   {
     "full_name": "gfx-rs/naga",
-    "stargazers_count": 1080,
-    "open_issues_count": 242,
+    "stargazers_count": 1081,
+    "open_issues_count": 239,
     "forks_count": 152
   },
   {
     "full_name": "lucaspoffo/renet",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 16,
     "forks_count": 15
-  },
-  {
-    "full_name": "facebook/zstd",
-    "stargazers_count": 18935,
-    "open_issues_count": 136,
-    "forks_count": 1804
-  },
-  {
-    "full_name": "nuxt-modules/partytown",
-    "stargazers_count": 209,
-    "open_issues_count": 4,
-    "forks_count": 3
-  },
-  {
-    "full_name": "lukeed/resolve.exports",
-    "stargazers_count": 206,
-    "open_issues_count": 13,
-    "forks_count": 10
-  },
-  {
-    "full_name": "johannschopplich/unacl",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "johannschopplich/loadeer",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ElMassimo/vite-plugin-full-reload",
-    "stargazers_count": 77,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "romannurik/AndroidAssetStudio",
-    "stargazers_count": 6317,
-    "open_issues_count": 14,
-    "forks_count": 1398
-  },
-  {
-    "full_name": "GreyZmeem/python-logging-loki",
-    "stargazers_count": 96,
-    "open_issues_count": 19,
-    "forks_count": 35
-  },
-  {
-    "full_name": "dbrgn/tealdeer",
-    "stargazers_count": 2880,
-    "open_issues_count": 17,
-    "forks_count": 90
-  },
-  {
-    "full_name": "MrOrz/vscode-gettext",
-    "stargazers_count": 17,
-    "open_issues_count": 11,
-    "forks_count": 7
-  },
-  {
-    "full_name": "runningzyp/django-gettext",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "windsonR/vite-plugin-virtual-html",
-    "stargazers_count": 33,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "digitalocean/pydo",
-    "stargazers_count": 55,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "ota-meshi/vite-plugin-eslint4b",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 8573,
-    "open_issues_count": 55,
-    "forks_count": 488
-  },
-  {
-    "full_name": "sbesh91/react-redux-omt",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "aatikturk/obsws-python",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "abielzulio/chatgpt-raycast",
-    "stargazers_count": 183,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "oh-my-fish/plugin-foreign-env",
-    "stargazers_count": 170,
-    "open_issues_count": 9,
-    "forks_count": 11
-  },
-  {
-    "full_name": "ain/smartbanner.js",
-    "stargazers_count": 496,
-    "open_issues_count": 9,
-    "forks_count": 174
-  },
-  {
-    "full_name": "jhillyerd/plugin-git",
-    "stargazers_count": 421,
-    "open_issues_count": 7,
-    "forks_count": 73
   }
 ]
