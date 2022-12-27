@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "replicate/dreambooth",
+    "stargazers_count": 51,
+    "open_issues_count": 7,
+    "forks_count": 8
+  },
+  {
+    "full_name": "Rob--W/crxviewer",
+    "stargazers_count": 1125,
+    "open_issues_count": 28,
+    "forks_count": 189
+  },
+  {
     "full_name": "bats-core/bats-core",
-    "stargazers_count": 3664,
+    "stargazers_count": 3668,
     "open_issues_count": 70,
     "forks_count": 345
   },
   {
     "full_name": "zardoy/typescript-vscode-plugins",
-    "stargazers_count": 13,
+    "stargazers_count": 15,
     "open_issues_count": 43,
     "forks_count": 1
   },
   {
     "full_name": "Gankra/cargo-mommy",
-    "stargazers_count": 114,
-    "open_issues_count": 4,
-    "forks_count": 5
+    "stargazers_count": 181,
+    "open_issues_count": 8,
+    "forks_count": 7
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 42279,
-    "open_issues_count": 260,
-    "forks_count": 3513
+    "stargazers_count": 42331,
+    "open_issues_count": 261,
+    "forks_count": 3516
   },
   {
     "full_name": "actions/runner-container-hooks",
@@ -31,15 +43,15 @@
   },
   {
     "full_name": "actions/actions-runner-controller",
-    "stargazers_count": 2560,
-    "open_issues_count": 89,
-    "forks_count": 633
+    "stargazers_count": 2574,
+    "open_issues_count": 92,
+    "forks_count": 634
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 61147,
-    "open_issues_count": 10655,
-    "forks_count": 17035
+    "stargazers_count": 61220,
+    "open_issues_count": 10667,
+    "forks_count": 17058
   },
   {
     "full_name": "eshaz/wasm-audio-decoders",
@@ -49,21 +61,21 @@
   },
   {
     "full_name": "danielroe/vitest-environment-nuxt",
-    "stargazers_count": 29,
-    "open_issues_count": 4,
+    "stargazers_count": 33,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
     "full_name": "openai/gpt-discord-bot",
-    "stargazers_count": 75,
-    "open_issues_count": 0,
-    "forks_count": 8
+    "stargazers_count": 361,
+    "open_issues_count": 1,
+    "forks_count": 34
   },
   {
     "full_name": "crxjs/chrome-extension-tools",
-    "stargazers_count": 806,
-    "open_issues_count": 58,
-    "forks_count": 74
+    "stargazers_count": 818,
+    "open_issues_count": 59,
+    "forks_count": 75
   },
   {
     "full_name": "web-ext-labs/create-web-ext",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "zikaari/webext-bridge",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 18,
     "forks_count": 27
   },
@@ -109,33 +121,33 @@
   },
   {
     "full_name": "remotion-dev/github-unwrapped-2022",
-    "stargazers_count": 638,
-    "open_issues_count": 0,
-    "forks_count": 35
+    "stargazers_count": 842,
+    "open_issues_count": 3,
+    "forks_count": 43
   },
   {
     "full_name": "mozilla/webextension-polyfill",
-    "stargazers_count": 2008,
-    "open_issues_count": 40,
+    "stargazers_count": 2011,
+    "open_issues_count": 39,
     "forks_count": 203
   },
   {
     "full_name": "mozilla/web-ext",
-    "stargazers_count": 2186,
-    "open_issues_count": 182,
+    "stargazers_count": 2188,
+    "open_issues_count": 183,
     "forks_count": 315
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 38543,
-    "open_issues_count": 3537,
-    "forks_count": 5757
+    "stargazers_count": 38714,
+    "open_issues_count": 3583,
+    "forks_count": 5779
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7603,
-    "open_issues_count": 478,
-    "forks_count": 814
+    "stargazers_count": 7614,
+    "open_issues_count": 482,
+    "forks_count": 818
   },
   {
     "full_name": "theoremlp/required-reviews",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "RomanHotsiy/commitgpt",
-    "stargazers_count": 750,
+    "stargazers_count": 761,
     "open_issues_count": 11,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "transitive-bullshit/chatgpt-api",
-    "stargazers_count": 3940,
-    "open_issues_count": 13,
-    "forks_count": 396
+    "stargazers_count": 4127,
+    "open_issues_count": 15,
+    "forks_count": 411
   },
   {
     "full_name": "VeNoMouS/cloudscraper",
-    "stargazers_count": 2615,
+    "stargazers_count": 2632,
     "open_issues_count": 4,
-    "forks_count": 375
-  },
-  {
-    "full_name": "gfx-rs/naga",
-    "stargazers_count": 1081,
-    "open_issues_count": 239,
-    "forks_count": 152
-  },
-  {
-    "full_name": "lucaspoffo/renet",
-    "stargazers_count": 220,
-    "open_issues_count": 16,
-    "forks_count": 15
+    "forks_count": 376
   }
 ]
