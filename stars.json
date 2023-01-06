@@ -19,9 +19,9 @@
   },
   {
     "full_name": "microsoft/cascadia-code",
-    "stargazers_count": 21698,
+    "stargazers_count": 21722,
     "open_issues_count": 107,
-    "forks_count": 725
+    "forks_count": 724
   },
   {
     "full_name": "replicate/dreambooth",
@@ -31,73 +31,73 @@
   },
   {
     "full_name": "Rob--W/crxviewer",
-    "stargazers_count": 1128,
+    "stargazers_count": 1129,
     "open_issues_count": 28,
     "forks_count": 189
   },
   {
     "full_name": "bats-core/bats-core",
-    "stargazers_count": 3678,
+    "stargazers_count": 3684,
     "open_issues_count": 67,
-    "forks_count": 344
+    "forks_count": 343
   },
   {
     "full_name": "zardoy/typescript-vscode-plugins",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 43,
     "forks_count": 1
   },
   {
     "full_name": "Gankra/cargo-mommy",
-    "stargazers_count": 195,
+    "stargazers_count": 198,
     "open_issues_count": 9,
     "forks_count": 7
   },
   {
     "full_name": "tldr-pages/tldr",
-    "stargazers_count": 42403,
-    "open_issues_count": 260,
-    "forks_count": 3524
+    "stargazers_count": 42453,
+    "open_issues_count": 257,
+    "forks_count": 3529
   },
   {
     "full_name": "actions/runner-container-hooks",
     "stargazers_count": 20,
-    "open_issues_count": 9,
+    "open_issues_count": 14,
     "forks_count": 14
   },
   {
     "full_name": "actions/actions-runner-controller",
-    "stargazers_count": 2584,
-    "open_issues_count": 90,
-    "forks_count": 640
+    "stargazers_count": 2595,
+    "open_issues_count": 89,
+    "forks_count": 647
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 61366,
-    "open_issues_count": 10518,
-    "forks_count": 17086
+    "stargazers_count": 61436,
+    "open_issues_count": 10531,
+    "forks_count": 17097
   },
   {
     "full_name": "eshaz/wasm-audio-decoders",
-    "stargazers_count": 80,
-    "open_issues_count": 2,
-    "forks_count": 10
+    "stargazers_count": 81,
+    "open_issues_count": 3,
+    "forks_count": 9
   },
   {
     "full_name": "danielroe/vitest-environment-nuxt",
-    "stargazers_count": 35,
-    "open_issues_count": 4,
+    "stargazers_count": 40,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
     "full_name": "openai/gpt-discord-bot",
-    "stargazers_count": 473,
-    "open_issues_count": 0,
-    "forks_count": 76
+    "stargazers_count": 527,
+    "open_issues_count": 2,
+    "forks_count": 97
   },
   {
     "full_name": "crxjs/chrome-extension-tools",
-    "stargazers_count": 838,
+    "stargazers_count": 847,
     "open_issues_count": 59,
     "forks_count": 75
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "GoogleChrome/chrome-types",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 23,
     "forks_count": 24
   },
@@ -128,8 +128,8 @@
   {
     "full_name": "barrel/barrel-shopify",
     "stargazers_count": 57,
-    "open_issues_count": 2,
-    "forks_count": 11
+    "open_issues_count": 4,
+    "forks_count": 12
   },
   {
     "full_name": "defstudio/vite-livewire-plugin",
@@ -145,33 +145,33 @@
   },
   {
     "full_name": "remotion-dev/github-unwrapped-2022",
-    "stargazers_count": 1049,
+    "stargazers_count": 1109,
     "open_issues_count": 0,
-    "forks_count": 57
+    "forks_count": 63
   },
   {
     "full_name": "mozilla/webextension-polyfill",
-    "stargazers_count": 2021,
-    "open_issues_count": 40,
+    "stargazers_count": 2022,
+    "open_issues_count": 41,
     "forks_count": 203
   },
   {
     "full_name": "mozilla/web-ext",
-    "stargazers_count": 2196,
-    "open_issues_count": 184,
+    "stargazers_count": 2200,
+    "open_issues_count": 185,
     "forks_count": 314
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 38962,
-    "open_issues_count": 3667,
-    "forks_count": 5818
+    "stargazers_count": 39070,
+    "open_issues_count": 3642,
+    "forks_count": 5833
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7638,
-    "open_issues_count": 487,
-    "forks_count": 825
+    "stargazers_count": 7644,
+    "open_issues_count": 491,
+    "forks_count": 827
   },
   {
     "full_name": "theoremlp/required-reviews",
